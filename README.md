@@ -7,8 +7,11 @@ As pollution increasing in our day to day life, we need to control pollution by 
 LITERATURE SURVEY:
 
 -- In 2011, Diego Mendez, Alfredo J. Perez, Miguel A. Labrador, Juan Jose Marron proposed air pollution monitoring system using GPS technology in mobile phones. It retrieves large amount of data easily and also cost effective.
+
 -- In 2011, Wenhu Wang, Yifeng Yuan, Zhihao Ling introduced an air quality monitoring system based on ZigBee wireless sensing technology. It uses ZigBee wireless network to send data to people. If something happen and data exceed threshold value, it gives warning to them to take certain action.
+
 -- Vikhyat from Delhi, had come up with a proposal environmental monitoring system called ArduAir which is a small and portable measurement system which includes various gas sensors and proposed software for collecting data from the ArduAir and plotting it in real-time.
+
 -- In 2016, Navreetinder Kaur, Rita Mahajan proposed a Wireless sensor network (WSN) system which has some specific parameters of the environment such as temperature, humidity, CO2 etc and sends data to the base station through Zigbee pro.
 
 PROPOSED SYSTEM:
